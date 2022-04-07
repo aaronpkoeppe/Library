@@ -1,6 +1,10 @@
 public enum Category {
     BOOK,
-    MOVIE
+    MOVIE,
+    MAGAZINE,
+    OVERLOAD
+
+
 }
 
 
